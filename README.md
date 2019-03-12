@@ -1,7 +1,7 @@
 # basic-git-codeman class 12 march 2019
-<<<<<<< HEAD
 panitan1996
-=======
+ittiya
+275404c0ed6b6cf1734502605be37738e751639b
 l3zA
 nutkong
->>>>>>> 24301076571dd088d6f4abe489fdbef3f169913e
+24301076571dd088d6f4abe489fdbef3f169913e
