@@ -1,10 +1,6 @@
-﻿
 # basic-git-codeman
 nutkong
 OIL
-=======
-﻿
-nutkong nutkong
 puri
 
 
@@ -19,4 +15,8 @@ dumpkin
 
 
 
+
 puriiiiiiii
+
+nutkong
+
