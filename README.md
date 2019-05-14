@@ -1,10 +1,6 @@
-﻿
 # basic-git-codeman
 nutkong
 OIL
-=======
-﻿
-nutkong nutkong
 puri
 
 
@@ -14,3 +10,4 @@ spark
 
 ptmild
 dumpkin
+nutkong
