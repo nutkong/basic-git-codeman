@@ -1,10 +1,6 @@
-
 # basic-git-codeman
 nutkong
 OIL
-=======
-﻿
-nutkong nutkong
 puri
 
 
