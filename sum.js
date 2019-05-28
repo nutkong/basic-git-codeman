@@ -1,5 +1,5 @@
 const sum1= function(){
-	return 1
+	return 2
 }
 
 const sum2b = function(b){
