@@ -1,11 +1,10 @@
-function sum1(a,b){
+const sum1= function(){
 	return 1
 }
 
-function sum2b(b){
+const sum2b = function(b){
   return b + b
 }
 
-module.export = {
-	sum1, sum2b
-}
+module.exports = sum1
+
