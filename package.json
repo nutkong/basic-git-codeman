@@ -1,0 +1,22 @@
+{
+  "name": "basic-git-codeman",
+  "version": "1.0.0",
+  "description": "nutkong OIL puri",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutkong/basic-git-codeman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutkong/basic-git-codeman/issues"
+  },
+  "homepage": "https://github.com/nutkong/basic-git-codeman#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
